@@ -27,6 +27,8 @@
 
 * Tailwind CSS Ready to go
   - Fully Configured so you can start styling your app ASAP
+* React Icons
+* React Router v6.6.1
 
 ## How To Use
 
@@ -58,6 +60,7 @@ This software uses the following open source packages:
 - [ViteJs](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Icons](https://nodejs.org/)
+- [React Router](https://reactrouter.com/en/main)
 
 
 ## Support
