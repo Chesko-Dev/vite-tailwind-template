@@ -28,7 +28,8 @@
 * Tailwind CSS 
 * React Icons 
 * React Router 
-* Easy Peasy v6 for state management
+* Easy Peasy v6
+* Pocketbase
 
 ## How To Use
 
@@ -62,6 +63,7 @@ This software uses the following open source packages:
 - [React Icons](https://nodejs.org/)
 - [React Router](https://reactrouter.com/en/main)
 - [Easy Peasy](https://easy-peasy.dev/)
+- [Pocketbase](https://pocketbase.io/)
 
 
 ## Support
