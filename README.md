@@ -25,9 +25,9 @@
 
 ## Key Features
 
-* Tailwind CSS v3.3.3
-* React Icons v4.10.1
-* React Router v6.8.2
+* Tailwind CSS 
+* React Icons 
+* React Router 
 * Easy Peasy v6 for state management
 
 ## How To Use
