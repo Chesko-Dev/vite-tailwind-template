@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">A fully configured <a href="http://vitejs.dev" target="_blank">Vite</a> template to use with <a href="http://tailwindcss.com" target="_blank">Tailwind CSS</a>.</h4>
+<h4 align="center">A mediocre configured <a href="http://vitejs.dev" target="_blank">Vite</a> template to use with <a href="http://tailwindcss.com" target="_blank">Tailwind CSS</a>.</h4>
 
 <p align="center">
   <a href="https://saythanks.io/to/cheskoxd">
@@ -25,10 +25,10 @@
 
 ## Key Features
 
-* Tailwind CSS Ready to go
-  - Fully Configured so you can start styling your app ASAP
-* React Icons
-* React Router v6.6.1
+* Tailwind CSS v3.3.3
+* React Icons v4.10.1
+* React Router v6.8.2
+* Easy Peasy v6 for state management
 
 ## How To Use
 
@@ -61,6 +61,7 @@ This software uses the following open source packages:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Icons](https://nodejs.org/)
 - [React Router](https://reactrouter.com/en/main)
+- [Easy Peasy](https://easy-peasy.dev/)
 
 
 ## Support
