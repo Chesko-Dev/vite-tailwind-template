@@ -76,7 +76,7 @@ const Dashboard: React.FC = () => {
       {loading ? <div className='flex w-full justify-center flex-col gap-4 items-center mt-12'>
           <img src={gifImage} alt="GIF Example" className=' w-32 pr-9' />
           <p className='text-sm'>Loading</p>
-        </div> : 
+        </div> :   
         !token ? <button onClick={(e)=> {e.preventDefault(); setLoading(true); authenticate("users", "test@test.com", "0123456789").then(()=>setData())}}>Login</button> : <div className='w-full flex justify-center items-center'><TaskList tasks={dailyTasks} /></div>
       }
       <div className='full flex justify-center items-center gap-4 mt-4 flex-col'>
